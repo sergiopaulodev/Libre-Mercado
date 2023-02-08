@@ -12,3 +12,11 @@ div > a{
     text-decoration: none;
     color: black;
 }
+
+.bg-info{
+    background-color: #fff159!important;
+}
+
+#body{
+    background-color: #ebebeb;
+}
