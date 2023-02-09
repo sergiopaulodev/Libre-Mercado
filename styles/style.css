@@ -20,3 +20,8 @@ div > a{
 #body{
     background-color: #ebebeb;
 }
+
+.mx-5 {
+    margin-right: 9rem!important;
+    margin-left: 9rem!important;
+}
