@@ -1,0 +1,72 @@
+.form-control {
+    width: 400px;
+
+
+}
+.rincon{
+    display: flex;
+    margin-left: 200px;
+}
+
+.logo-mp {
+    width: 150px;
+}
+
+.img-disney {
+    width: 400px;
+}
+
+header {
+    background: #FCF35D;
+}
+
+.navbar {
+    background: #FCF35D;
+}
+.card{
+ margin-left: 30px;
+ 
+}
+.fondo{
+    background: #EBEBEB;
+
+
+}
+.espacio{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    background-color: #EBEBEB;
+}
+.carousel-control-next-icon{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 50%;
+
+}
+.inline{
+    display: inline-block;
+}
+.pepe{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.card-header{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+height: 70px;
+background-color: #A90F90;
+}
+.card-header h5{
+    font-weight:600;
+    font-size: 30px;
+    color:white;
+}
+.boton{
+    top: 55px;
+    right: 10px;
+}
+
